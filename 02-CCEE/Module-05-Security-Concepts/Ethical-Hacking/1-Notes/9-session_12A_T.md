@@ -70,20 +70,6 @@ the defences against cracking AND the surveillance tools that come next.
 
 ---
 
-## 📌 Prerequisites Self-Check
-
-Answer honestly before reading. If NO to any — review that session first.
-
-- [ ] Do I know what NT Hash and LM Hash are, and how they differ?
-- [ ] Do I know what Pass-the-Hash means and why it works?
-- [ ] Can I explain what Responder does and what NTLMv2 capture means?
-- [ ] Do I know the difference between brute force and dictionary attacks?
-- [ ] Do I know what rockyou.txt is and where it came from?
-- [ ] Do I know what salting means in the context of password storage?
-- [ ] Do I know what MITRE ATT&CK tactic TA0006 covers?
-
----
-
 ## ⚠️ Exam Traps & Misconceptions
 
 | ❌ Misconception | ✅ Reality |
