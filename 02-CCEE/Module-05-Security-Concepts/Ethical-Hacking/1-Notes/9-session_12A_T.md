@@ -1089,9 +1089,26 @@ EDR · Anti-spyware · MVT · DPDPA 2023
 
 **Concept Map:**
 
-PASSWORD ATTACKS ├── Online Active ──────── Brute Force / Spraying / Stuffing │ └── Countermeasure: Lockout / Throttle / MFA ├── Online Passive ─────── Sniffing / Responder / MITM │ └── Countermeasure: LLMNR off / HTTPS / 802.1X ├── Offline ────────────── Hashcat / Rainbow / PassGAN │ └── Countermeasure: bcrypt / Argon2 / Salting └── Non-Electronic ──────── Shoulder Surf / Dumpster Dive / SE
+```
+PASSWORD ATTACKS
+├── Online Active ──────── Brute Force / Spraying / Stuffing
+│                          └── Countermeasure: Lockout / Throttle / MFA
+├── Online Passive ─────── Sniffing / Responder / MITM
+│                          └── Countermeasure: LLMNR off / HTTPS / 802.1X
+├── Offline ────────────── Hashcat / Rainbow / PassGAN
+│                          └── Countermeasure: bcrypt / Argon2 / Salting
+└── Non-Electronic ──────── Shoulder Surf / Dumpster Dive / SE
 
-POST-CREDENTIAL SURVEILLANCE ├── Keylogger │ ├── Hardware ────────── USB inline / Acoustic / EM / RF │ └── Software ────────── API hook / Kernel / Form grabber │ └── Countermeasure: EDR / PAW / Password Manager └── Spyware ├── Types ───────────── Adware / Banking / Stalkerware / Govware ├── Spread ──────────── Phishing / Drive-by / Zero-click / USB drop └── Countermeasure ──── EDR / MDM / Patch / MVT (Pegasus)
+POST-CREDENTIAL SURVEILLANCE
+├── Keylogger
+│   ├── Hardware ────────── USB inline / Acoustic / EM / RF
+│   └── Software ────────── API hook / Kernel / Form grabber
+│                          └── Countermeasure: EDR / PAW / Password Manager
+└── Spyware
+    ├── Types ───────────── Adware / Banking / Stalkerware / Govware
+    ├── Spread ──────────── Phishing / Drive-by / Zero-click / USB drop
+    └── Countermeasure ──── EDR / MDM / Patch / MVT (Pegasus)
+```
 
 
 ---
