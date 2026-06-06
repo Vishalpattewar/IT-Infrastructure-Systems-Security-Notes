@@ -1170,7 +1170,7 @@ SMS OTP → Email OTP → TOTP App → Push Notification → Hardware Token (RSA
 | IT Act 2000 S.66 | Unauthorised computer access | 3 years + ₹5 lakh |
 | IT Act 2000 S.66E | Privacy violation (webcam spyware) | 3 years + ₹2 lakh |
 | GDPR | Breach notification window | 72 hours |
-| CERT-In | Incident notification window |  |
+| CERT-In | Incident notification window | 6 hours |
 
 ---
 
