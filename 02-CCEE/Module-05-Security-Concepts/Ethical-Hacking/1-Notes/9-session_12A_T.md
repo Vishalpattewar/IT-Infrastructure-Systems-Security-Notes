@@ -51,7 +51,7 @@
 ---
 
 ## 🗺️ Where This Session Fits
-
+```
 Module 05 — Security Concepts
 └── Part B — Ethical Hacking (Sessions 6–20)
     ├── Sessions 6–9   : Concepts, Principles, Hacker Classes
@@ -61,7 +61,7 @@ Module 05 — Security Concepts
     │                    Keyloggers · Spyware          ← YOU ARE HERE
     ├── Session 12B    : Trojans & Backdoors
     └── Sessions 13–20 : Trojans, Viruses, Sniffing, DoS, Web Attacks...
-
+```
 
 **Phase position:** Post-exploitation surveillance begins here.
 After cracking credentials (11C), attackers maintain persistence and
